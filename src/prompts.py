@@ -1,0 +1,1 @@
+#Recommend a modernization strategy for an on-premise Java application running on WebLogic with Oracle Database. Explain why.
